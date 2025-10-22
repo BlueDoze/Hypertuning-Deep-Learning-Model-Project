@@ -43,19 +43,3 @@ Add or adjust the above bullets to match specific modeling methods used in the n
 
 2. Open `INFO_6154_Assignment_1_Pedro_Aguiar.ipynb` in JupyterLab or Jupyter Notebook and run cells.
 
-This repository references a `requirements.txt` for reproducible installs. You mentioned you already have a requirements file — keep it in the project root or update the path in the install command above if it's located elsewhere.
-
-If you don't have a `requirements.txt`, install at least:
-
-- jupyter
-- pandas
-- numpy
-- matplotlib
-
-## Notes
-
-- Update the paths in the notebook if datasets are in subfolders.
-
-## Contact
-
-Pedro Aguiar
